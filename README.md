@@ -9,7 +9,7 @@ Title | File name | Year
 :---  | :---      | ---:
 Ada 9X Reusable Components | Ada-9X_Reusable_Components.pdf | 1992
 Ada Design of a Neural Network | Ada_Design_of_a_Neural_Network.pdf | 1994
-Ada's Design Goals and Object-Oriented Programming | Ada_Design_of_a_Neural_Network.pdf | 1994
+Ada's Design Goals and Object-Oriented Programming | Adas_Design_Goals_and_Object_Oriented_Programming.pdf | 1994
 Back Propagation Learning Equations from the Minimization of Recursive Error | REM_Eq.pdf | 1989
 Breaking the Ada Privacy Act | Breaking_the_Ada_Privacy_Act.pdf | 1996
 Concurrent Reusable Abstract Data Types | Concurrent_Reusable_Abstract_Data_Types.pdf | 1991

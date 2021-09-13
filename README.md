@@ -20,4 +20,5 @@ MMAIM: A Software Development Method for Ada; Part II--Example | MMAIM_A_Softwar
 OOP vs. Readability | OOP_vs_Readability.pdf | 1997
 Practical Use of Ada 95’s Concurrency Features | Use_Ada_95_Concurrency.pdf | 1998
 PragmAda Reusable Components, The | PragmAda_Reusable_Components.pdf | 2004
+Self-Referential Data Types Without Access Types | Self_Ref_No_Access.pdf | 2021 (draft)
 Variable-Length String Input in Ada | Variable-Length_String_Input_in_Ada.pdf | 1989
